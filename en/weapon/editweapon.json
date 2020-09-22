@@ -1,0 +1,4 @@
+{
+    "HELP": "[CMD_KEY]editweapon name (property value)+\n\nAny number of properties can be set at once.\n\nProperties:\n    __message__, __icon__, __ranged__, and __image__\n\nExample usage:\n\n    [CMD_KEY]editweapon laser message \"pews at\" icon :gun:\n\n    [CMD_KEY]editweapon \"a gun\" image http://i.imgur.com/QuZQm4D.png",
+    "": ""
+}
