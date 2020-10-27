@@ -1,4 +1,5 @@
 {
   "HELP": "[CMD_KEY]deleteme\n\nSupprime toutes vos statistiques et toutes personnalisations.\nCela ne peut pas être inversé!",
-  "SUCCESS": "Votre utilisateur a été supprimé."
+  "SUCCESS": "Votre utilisateur a été supprimé.",
+  "CNF": "Cela va **__définitivement__** supprimer votre compte!"
 }
