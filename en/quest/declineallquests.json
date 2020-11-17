@@ -1,6 +1,6 @@
 {
-    "HELP": "[CMD_KEY]declineallquest\n\nDeclines all of your quests because you're too wimpy to do any of them.",
+    "Help": "[CMD_KEY]declineallquest\n\nDeclines all of your quests because you're too wimpy to do any of them.",
     "CNF": "This will clear **__all__** your active quests!",
-    "NOQUESTS": "You have no quests to decline!",
-    "SUCCESS": "Declined %s quests!"
+    "NoQuests": "You have no quests to decline!",
+    "Success": "Declined %s quests!"
 }

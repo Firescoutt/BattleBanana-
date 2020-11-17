@@ -1,6 +1,5 @@
 {
-    "HELP": "[CMD_KEY]showinvites\n\nDisplay any team invites that you have received!",
-    "TITLE": "Displaying your team invites!",
-    "DESC": "You were invited to join these teams!",
-    "": ""
+    "Help": "[CMD_KEY]showinvites\n\nDisplay any team invites that you have received!",
+    "Title": "Displaying your team invites!",
+    "Desc": "You were invited to join these teams!"
 }

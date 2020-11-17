@@ -1,9 +1,8 @@
 {
-    "HELP": "[CMD_KEY]invite\n\nDisplay BattleBanana invite link & Support server.",
-    "DESC": "Here are 2 important links about me! :smiley:",
+    "Help": "[CMD_KEY]invite\n\nDisplay BattleBanana invite link & Support server.",
+    "Desc": "Here are 2 important links about me! :smiley:",
 
-    "TITLE": "BattleBanana's invites",
-    "INVITE": "Invite me:",
-    "SUPPORT": "Support server:",
-    "HERE": "Here"
+    "Title": "BattleBanana's invites",
+    "Invite": "Invite me:",
+    "Support": "Support server:"
 }

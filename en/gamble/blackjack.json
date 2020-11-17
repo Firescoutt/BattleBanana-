@@ -1,27 +1,23 @@
 {
-    "HELP": "[CMD_KEY]blackjack (bet)\n\nPlay blackjack with BattleBanana.\n\nGame objective: Obtain 21 or the closest to win!\n[Card Values](https://battlebanana.xyz/img/21Values.png)",
-    "RATELIMIT": "You can't use blackjack again for **[COOLDOWN]**!",
-    "HIGHBET": "You cannot bet that much!",
-    "LOWBET": "You cannot bet under ¤1",
-    "ALREADYPLAY": "You are already playing!",
-
-    "STARTTITLE": "Blackjack dealer",
-    "STARTDESC": "%s game. Current bet: ¤%s",
-    "STARTFOOTER": "Reply with \"hit\" or \"stand\". This prompt will close in 120 seconds",
-
-    "USERHAND": "Your hand (%s)",
-    "DEALERHAND": "Dealer's hand (%s)",
-    "RESULT": "Result",
-
-    "USERBUST": "You busted!",
-    "USERBJ": "You win with a blackjack!",
-    "USERWIN": "You win with an hand of %s against %s.",
-    "DEALBUST": "Dealer busted!",
-    "DEALBJ": "Dealer won with a blackjack!",
-    "DEALWIN": "Dealer win with an hand of %s against %s.",
-    "TIE": "This is a tie! %s-%s",
-
-    "REWARDWIN": " You were rewarded with `¤%s`",
-    "REWARDLOSE": " You lost `¤%s`.",
-    "REWARDTIE": " You got your bet back!"
+    "Help": "[CMD_KEY]blackjack (bet)\n\nPlay blackjack with BattleBanana.\n\nGame objective: Obtain 21 or the closest to win!\n[Card Values](https://battlebanana.xyz/img/21Values.png)",
+    "RateLimit": "You can't use blackjack again for **[COOLDOWN]**!",
+    "HighBet": "You cannot bet that much!",
+    "LowBet": "You cannot bet under ¤1",
+    "AlreadyPlay": "You are already playing!",
+    "StartTitle": "Blackjack dealer",
+    "StartDesc": "%s game. Current bet: ¤%s",
+    "StartFooter": "Reply with \"hit\" or \"stand\". This prompt will close in 120 seconds",
+    "UserHand": "Your hand (%s)",
+    "DealerHand": "Dealer's hand (%s)",
+    "Result": "Result",
+    "UserBust": "You busted!",
+    "UserBJ": "You win with a blackjack!",
+    "UserWin": "You win with an hand of %s against %s.",
+    "DealBust": "Dealer busted!",
+    "DealBJ": "Dealer won with a blackjack!",
+    "DealWin": "Dealer win with an hand of %s against %s.",
+    "Tie": "This is a tie! %s-%s",
+    "RewardWin": " You were rewarded with `¤%s`",
+    "RewardLose": " You lost `¤%s`.",
+    "RewardTie": " You got your bet back!"
 }

@@ -1,5 +1,5 @@
 {
-    "HELP": "[CMD_KEY]resetme\n\nResets all your stats & any customization.\nThis cannot be reversed!",
+    "Help": "[CMD_KEY]resetme\n\nResets all your stats & any customization.\nThis cannot be reversed!",
     "CNF": "This will **__permanently__** reset your user!",
-    "SUCCESS": "Your user has been reset."
+    "Success": "Your user has been reset."
 }

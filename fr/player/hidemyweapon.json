@@ -1,5 +1,5 @@
 {
-  "HELP": "[CMD_KEY]hidemyweapon\n\nCache votre arme",
-  "NOWHIDDEN": "Votre arme est maintenant cachée!",
-  "NOTHIDDEN": "Votre arme n'est plus cachée!"
+  "Help": "[CMD_KEY]hidemyweapon\n\nCache votre arme",
+  "NowHidden": "Votre arme est maintenant cachée!",
+  "NotHidden": "Votre arme n'est plus cachée!"
 }

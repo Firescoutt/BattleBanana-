@@ -1,4 +1,4 @@
 {
-  "HELP": "[CMD_KEY]suggest (suggestion)\n\nLaisse une suggestion sur le serveur officiel de BattleBanana et trello.",
-  "RATELIMIT": ":hushed: S'il vous plaît pas plus de suggestions (pendant quelques minutes)!"
+  "Help": "[CMD_KEY]suggest (suggestion)\n\nLaisse une suggestion sur le serveur officiel de BattleBanana et trello.",
+  "RateLimit": ":hushed: S'il vous plaît pas plus de suggestions (pendant quelques minutes)!"
 }
