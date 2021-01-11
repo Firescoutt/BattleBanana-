@@ -1,6 +1,6 @@
 {
-    "PINGHELP": "[CMD_KEY]ping\npong! Gives you the response time.",
-    "PONG": "[CMD_KEY]pong\npong! Gives you the response time.",
+    "PingHelp": "[CMD_KEY]ping\npong! Gives you the response time.",
+    "PongHelp": "[CMD_KEY]pong\npong! Gives you the response time.",
     "API": "API Latency:",
     "BOT": "Bot Latency:",
     "DB": "Database Latency:"
